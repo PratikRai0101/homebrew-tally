@@ -1,6 +1,6 @@
 cask "tally" do
-  version "1.4"
-  sha256 "b7d5bf9eef77004152776f6db8308df750e09b19f638c3aab51671fa380ce68d"
+  version "1.5"
+  sha256 "21129f5063116242b99a5f6e64225183cfc412505e539776a28b01a72f48a599"
 
   url "https://github.com/PratikRai0101/tally/releases/download/v#{version}/Tally.zip"
   name "Tally"
